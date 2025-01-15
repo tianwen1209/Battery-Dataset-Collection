@@ -106,4 +106,17 @@ Thanks to all researchers and institutions who contributed to this project. Spec
 
 ---
 
+## 📅 Update Log
+
+| Date | Version | Updates |
+|------|---------|---------|
+| 2025-01-15 | v1.0.0 | - Project initialization <br> - Added NASA and Oxford datasets |
+| 2025-01-15 | v1.0.1 | - Improved project documentation <br> - Added English and Chinese support |
+| 2025-01-16 | v1.0.2 | - Added dataset specification <br> - Added contribution guidelines |
+
+We will continuously update and maintain this project, regularly adding new datasets and improving documentation. You can:
+- Watch this repository to receive update notifications
+- Star this repository to support us
+- Fork this repository to contribute
+
 If this project helps you, please give us a star ⭐️
