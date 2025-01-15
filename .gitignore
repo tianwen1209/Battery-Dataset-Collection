@@ -1,0 +1,85 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.python-version
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.pkl
+*.h5
+*.mat
+
+# Exceptions - add specific data files you want to track
+!example_data/*.csv
+!example_data/*.xlsx
+
+# Documentation
+_build/
+_static/
+_templates/
+
+# Logs
+*.log
+logs/
+log/
+
+# Local configuration
+config.local.yaml
+settings.local.json
+
+# Large files and directories
+large_files/
+raw_data/
+processed_data/
+*.zip
+*.tar.gz
+*.rar
