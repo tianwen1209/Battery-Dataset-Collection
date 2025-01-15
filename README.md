@@ -1,6 +1,6 @@
 # 电池数据集收集 (Battery Dataset Collection)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/battery-dataset-collection)](https://github.com/yourusername/battery-dataset-collection/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/tianwen1209/battery-dataset-collection)](https://github.com/tianwen1209/battery-dataset-collection/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
@@ -46,12 +46,12 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/battery-dataset-collection.git
+git clone https://github.com/tianwen1209/battery-dataset-collection.git
 cd battery-dataset-collection
 ```
 
 2. 浏览数据集信息：
-- 访问 [项目网站](https://yourusername.github.io/battery-dataset-collection)
+- 访问 [项目网站](https://tianwen1209.github.io/battery-dataset-collection)
 - 查看 `datasets` 目录下的详细说明文件
 
 ## 📂 仓库结构
@@ -95,12 +95,12 @@ battery-dataset-collection/
 
 ## 📮 联系方式
 
-- 提交 Issue: [GitHub Issues](https://github.com/yourusername/battery-dataset-collection/issues)
+- 提交 Issue: [GitHub Issues](https://github.com/tianwen1209/battery-dataset-collection/issues)
 - 邮箱: your.email@example.com
 
 ## 🔗 相关链接
 
-- [项目网站](https://yourusername.github.io/battery-dataset-collection)
+- [项目网站](https://tianwen1209.github.io/battery-dataset-collection)
 - [数据集使用示例](./examples)
 - [常见问题解答](./docs/FAQ.md)
 
