@@ -96,7 +96,7 @@ Thanks to all researchers and institutions who contributed to this project. Spec
 ## 📮 Contact
 
 - Submit Issues: [GitHub Issues](https://github.com/tianwen1209/battery-dataset-collection/issues)
-- Email: your.email@example.com
+- Email: zhutianwen129@sina.com
 
 ## 🔗 Related Links
 
