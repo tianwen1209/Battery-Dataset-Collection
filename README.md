@@ -96,7 +96,7 @@ battery-dataset-collection/
 ## 📮 联系方式
 
 - 提交 Issue: [GitHub Issues](https://github.com/tianwen1209/battery-dataset-collection/issues)
-- 邮箱: your.email@example.com
+- 邮箱: zhutianwen129@sina.com
 
 ## 🔗 相关链接
 
