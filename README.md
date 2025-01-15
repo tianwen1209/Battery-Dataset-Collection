@@ -1,6 +1,6 @@
 # 电池数据集收集 (Battery Dataset Collection)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/battery-dataset-collection)](https://github.com/yourusername/battery-dataset-collection/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/tianwen1209/battery-dataset-collection)](https://github.com/tianwen1209/battery-dataset-collection/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
