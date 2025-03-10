@@ -10,18 +10,18 @@ This repository contains a collection of publicly available battery datasets, ai
 
 ## 🌟 Features
 
-- Curated collection of public battery datasets
-- Standardized dataset descriptions
-- Detailed usage guides
-- Continuously updated resources
+- 🔍 Curated collection of public battery datasets
+- 📂 Standardized dataset descriptions
+- 📘 Detailed usage guides
+- 🔄 Continuously updated resources
 
-## 📊 Dataset List
+## 📊 Open-Source Battery Datasets
 
 | Institution | Dataset Link | Battery Type | Experimental Conditions | Measured Data |
 |------------|-------------|--------------|--------------------------|---------------|
 | **NASA** | [Link](link) | - | - | - |
 | **CALCE Battery Research Group** | [Link](CALCE) | - | - | - |
-| **Sandia National Lab** | [Link](link)  | LFP, NCA, NMC (18650) | 15-35℃, Various C-Rates | Voltage, Current, Temperature, Energy |
+| **Sandia National Lab** | [Link](battery dataset) | LFP, NCA, NMC (18650) | 15-35℃, Various C-Rates | Voltage, Current, Temperature, Energy |
 | **Oxford Battery Intelligence Lab** | [Link](link) | Lithium-ion pouch cells | 40℃, Artemis driving cycle | Voltage, Temperature, Discharge Capacity |
 | **Nature Communications Open Data** | [Link](link) | - | - | - |
 | **Hawaiian Natural Energy Institute** | [Link](link) | - | - | - |
@@ -38,24 +38,13 @@ This repository contains a collection of publicly available battery datasets, ai
 | **EVERLASTING Project** | [4TU.ResearchData](4tu.nl) | 18650, 3.5 Ah | 0-45℃, Various C-Rates | Voltage, Current, Capacity |
 | **KIT (Karlsruhe Institute of Technology)** | [KIT Dataset](kit.edu) | NMC (40Ah) | Room Temperature | Voltage, Temperature, Current |
 | **UCL (University College London)** | [Dataset](https://dx.doi.org/10.5522/04/12159462.v1) | NCA INR18650 MJ1 (3.5 Ah) | 24℃, 400 Cycles | Voltage, Temperature, Capacity |
-| **UC Berkeley** | [Dryad Data](datadryad.org) | Sanyo 18650 LCO/graphite (2.6 Ah) | Fast charging protocols | Voltage, Current, Capacity |
-| **Poznan University of Technology** | [Link](link)  | NMC 18650 (2.6 Ah) | Various temperatures & discharge depths | Voltage, Current, SOH data |
-| **University of Oviedo** | [Link](link)  | LFP pouch cells | 23℃, C/25 cycles | Voltage, Current, Temperature |
-| **University of Wisconsin-Madison** | [Link](link)  | Panasonic 18650PF (2.9 Ah) | 25℃ to -20℃, Driving cycles | Voltage, Current, EIS Tests |
-| **McMaster University** | [Link](link) | LG Chem INR18650HG2 (3 Ah) | 40℃ to -20℃, Mixed driving cycles | Voltage, Current, Capacity |
-| **USTC (University of Science and Technology of China)** | [ScienceDirect Dataset](ScienceDirect) | LFP Battery Pack (10 Ah) | Room Temperature, DST & UDDS | Voltage, Current |
 
 ## 📊 In-House Experimental Battery Datasets
 
 | Experiment Name | Battery Type | Experimental Conditions | Measured Data |
 |----------------|-------------|--------------------------|---------------|
-| **Porf. Xu Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
-| **Porf. Yan Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
-
-
-### Notes
-- Some datasets require proper citation when used in research.
-- The experimental conditions and measured data vary between datasets.
+| **Prof. Xu Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
+| **Prof. Yan Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
 
 ## 🚀 Usage
 
@@ -70,7 +59,6 @@ cd battery-dataset-collection
 - Check detailed documentation in the `datasets` directory
 
 ## 📂 Repository Structure
-
 ```
 battery-dataset-collection/
 ├── README.md              # Chinese README
@@ -87,23 +75,21 @@ battery-dataset-collection/
 ## 🤝 How to Contribute
 
 We welcome all forms of contributions, including but not limited to:
+- Adding new datasets
+- Improving documentation
+- Reporting issues
+- Providing usage examples
+- Sharing dataset analysis experiences
 
-1. Adding new datasets
-2. Improving documentation
-3. Reporting issues
-4. Providing usage examples
-5. Sharing dataset analysis experiences
-
-Please refer to [Contribution Guidelines](docs/contribution.md) for detailed information.
+Refer to [Contribution Guidelines](docs/contribution.md) for more details.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
 Thanks to all researchers and institutions who contributed to this project. Special thanks to:
-
 - NASA Ames Research Center
 - Oxford University
 - All dataset contributors
@@ -118,20 +104,3 @@ Thanks to all researchers and institutions who contributed to this project. Spec
 - [Project Website](https://tianwen1209.github.io/battery-dataset-collection)
 - [Dataset Usage Examples](./examples)
 - [FAQ](./docs/FAQ.md)
-
----
-
-## 📅 Update Log
-
-| Date | Version | Updates |
-|------|---------|---------|
-| 2025-01-15 | v1.0.0 | - Project initialization <br> - Added NASA and Oxford datasets |
-| 2025-01-15 | v1.0.1 | - Improved project documentation <br> - Added English and Chinese support |
-| 2025-01-16 | v1.0.2 | - Added dataset specification <br> - Added contribution guidelines |
-
-We will continuously update and maintain this project, regularly adding new datasets and improving documentation. You can:
-- Watch this repository to receive update notifications
-- Star this repository to support us
-- Fork this repository to contribute
-
-If this project helps you, please give us a star ⭐️
