@@ -21,7 +21,7 @@ This repository contains a collection of publicly available battery datasets, ai
 |------------|-------------|--------------|--------------------------|---------------|
 | **NASA** | [Link](link) | - | - | - |
 | **CALCE Battery Research Group** | [Link](CALCE) | - | - | - |
-| **Sandia National Lab** | [Link](battery dataset) | LFP, NCA, NMC (18650) | 15-35℃, Various C-Rates | Voltage, Current, Temperature, Energy |
+| **Sandia National Lab** | [Link](link)  | LFP, NCA, NMC (18650) | 15-35℃, Various C-Rates | Voltage, Current, Temperature, Energy |
 | **Oxford Battery Intelligence Lab** | [Link](link) | Lithium-ion pouch cells | 40℃, Artemis driving cycle | Voltage, Temperature, Discharge Capacity |
 | **Nature Communications Open Data** | [Link](link) | - | - | - |
 | **Hawaiian Natural Energy Institute** | [Link](link) | - | - | - |
@@ -39,10 +39,10 @@ This repository contains a collection of publicly available battery datasets, ai
 | **KIT (Karlsruhe Institute of Technology)** | [KIT Dataset](kit.edu) | NMC (40Ah) | Room Temperature | Voltage, Temperature, Current |
 | **UCL (University College London)** | [Dataset](https://dx.doi.org/10.5522/04/12159462.v1) | NCA INR18650 MJ1 (3.5 Ah) | 24℃, 400 Cycles | Voltage, Temperature, Capacity |
 | **UC Berkeley** | [Dryad Data](datadryad.org) | Sanyo 18650 LCO/graphite (2.6 Ah) | Fast charging protocols | Voltage, Current, Capacity |
-| **Poznan University of Technology** | [Dataset](Mendeley Data) | NMC 18650 (2.6 Ah) | Various temperatures & discharge depths | Voltage, Current, SOH data |
-| **University of Oviedo** | [Dataset](Mendeley Data) | LFP pouch cells | 23℃, C/25 cycles | Voltage, Current, Temperature |
-| **University of Wisconsin-Madison** | [Dataset](Mendeley Data) | Panasonic 18650PF (2.9 Ah) | 25℃ to -20℃, Driving cycles | Voltage, Current, EIS Tests |
-| **McMaster University** | [Dataset](Mendeley Data) | LG Chem INR18650HG2 (3 Ah) | 40℃ to -20℃, Mixed driving cycles | Voltage, Current, Capacity |
+| **Poznan University of Technology** | [Link](link)  | NMC 18650 (2.6 Ah) | Various temperatures & discharge depths | Voltage, Current, SOH data |
+| **University of Oviedo** | [Link](link)  | LFP pouch cells | 23℃, C/25 cycles | Voltage, Current, Temperature |
+| **University of Wisconsin-Madison** | [Link](link)  | Panasonic 18650PF (2.9 Ah) | 25℃ to -20℃, Driving cycles | Voltage, Current, EIS Tests |
+| **McMaster University** | [Link](link) | LG Chem INR18650HG2 (3 Ah) | 40℃ to -20℃, Mixed driving cycles | Voltage, Current, Capacity |
 | **USTC (University of Science and Technology of China)** | [ScienceDirect Dataset](ScienceDirect) | LFP Battery Pack (10 Ah) | Room Temperature, DST & UDDS | Voltage, Current |
 
 ### Notes
