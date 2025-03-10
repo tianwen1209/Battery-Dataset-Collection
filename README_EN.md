@@ -101,6 +101,6 @@ Thanks to all researchers and institutions who contributed to this project. Spec
 
 ## 🔗 Related Links
 
-- [Project Website](https://tianwen1209.github.io/battery-dataset-collection)
+- [Project Website](link)
 - [Dataset Usage Examples](./examples)
 - [FAQ](./docs/FAQ.md)
