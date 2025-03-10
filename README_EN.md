@@ -45,6 +45,14 @@ This repository contains a collection of publicly available battery datasets, ai
 | **McMaster University** | [Link](link) | LG Chem INR18650HG2 (3 Ah) | 40℃ to -20℃, Mixed driving cycles | Voltage, Current, Capacity |
 | **USTC (University of Science and Technology of China)** | [ScienceDirect Dataset](ScienceDirect) | LFP Battery Pack (10 Ah) | Room Temperature, DST & UDDS | Voltage, Current |
 
+## 📊 In-House Experimental Battery Datasets
+
+| Experiment Name | Battery Type | Experimental Conditions | Measured Data |
+|----------------|-------------|--------------------------|---------------|
+| **[Porf. Xu Lab Experiment]** | [Battery Type] | [Experimental Conditions] | [Measured Data] |
+| **[Porf. Yan Lab Experiment]** | [Battery Type] | [Experimental Conditions] | [Measured Data] |
+
+
 ### Notes
 - Some datasets require proper citation when used in research.
 - The experimental conditions and measured data vary between datasets.
