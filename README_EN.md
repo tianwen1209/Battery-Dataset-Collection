@@ -49,8 +49,8 @@ This repository contains a collection of publicly available battery datasets, ai
 
 | Experiment Name | Battery Type | Experimental Conditions | Measured Data |
 |----------------|-------------|--------------------------|---------------|
-| **[Porf. Xu Lab Experiment]** | [Battery Type] | [Experimental Conditions] | [Measured Data] |
-| **[Porf. Yan Lab Experiment]** | [Battery Type] | [Experimental Conditions] | [Measured Data] |
+| **Porf. Xu Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
+| **Porf. Yan Lab Experiment** | [Battery Type](link) | [Experimental Conditions] | [Measured Data](link) |
 
 
 ### Notes
