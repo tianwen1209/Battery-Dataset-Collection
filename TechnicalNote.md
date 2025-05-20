@@ -4,8 +4,8 @@
 
 ### Authors
 
-* \Tianwen Zhu, Prof. Yonggang Wen
-* \Nanyang Technological University - NTU Singapore
+* Tianwen Zhu, Prof. Yonggang Wen
+* Nanyang Technological University - NTU Singapore
 
 ### Abstract
 
