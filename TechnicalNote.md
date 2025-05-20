@@ -53,7 +53,7 @@ Our vision is for this repository to catalyze groundbreaking battery research wo
 Please cite this work in your publications using:
 
 ```
-[Authors]. (Year). Unified Open-source Repository for Battery-related Datasets, GitHub Repository. Available online: [Repository Link] (Accessed on [Date]).
+Tianwen Zhu, and Yonggang Wen. (2025). Unified Open-source Repository for Battery-related Datasets, GitHub Repository. Available online: [Repository Link] (Accessed on [Date]).
 ```
 
 ### Contributions
