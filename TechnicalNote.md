@@ -49,7 +49,7 @@ BatteryDataRepository/
 To cite this repository, use the following format:
 
 ```
-[Authors]. (Year). Unified Open-source Repository for Battery-related Datasets, GitHub Repository. Available online: [Repository Link] (Accessed on [Date]).
+Tianwen Zhu, Yonggang Wen. (2025). Unified Open-source Repository for Battery-related Datasets, GitHub Repository. Available online: [Repository Link] (Accessed on [Date]).
 ```
 
 ### Contributions
