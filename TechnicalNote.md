@@ -68,8 +68,7 @@ This repository is openly licensed under the Creative Commons Attribution 4.0 In
 
 For inquiries or contributions, please contact:
 
-* \[Primary Contact Name] (\[Email Address])
-* \[Secondary Contact Name] (\[Email Address])
+* Tianwen Zhu (\[tianwen001@e.ntu.edu.sg])
 
 ### Acknowledgments
 
